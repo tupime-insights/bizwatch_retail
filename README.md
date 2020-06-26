@@ -4,7 +4,7 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
   <a href="https://toggl.com"><img src="https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/assets/logo.png?raw=true" alt="Toggl" width="200"></a>
 </h1>
 
-<h4 align="center">Native desktop applications for the leading time tracking tool <a href="https://toggl.com" target="_blank">Toggl</a>.</h4>
+<h4 align="center">Modern Point of Sale for your retail business <a href="https://tupimelab.com/retail-pos/" target="_blank">Bizwatch Retail</a>.</h4>
 
 <p align="center">
     <a href="https://github.com/toggl-open-source/toggldesktop/commits/master">
@@ -30,7 +30,7 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 
 # About
 
-  **Toggl Desktop** is a Toggl time tracking client with many helper functions that make tracking time more effortless and smooth. Features such as Idle detection, reminders to track and Pomodoro Timer make this app a great companion when productivity and efficiency is the goal.
+  **Bizwatch Retail** is powerful Point of Sale tool for your retail business whether you are running a pharmacy, supermarket or a restaurant Features such as Idle detection, reminders to track and Pomodoro Timer make this app a great companion when productivity and efficiency is the goal.
 
 <img src="https://user-images.githubusercontent.com/842229/63856838-3a869580-c9ab-11e9-9e36-7db23059ce29.png"
          alt="Toggl Desktop apps">
@@ -50,11 +50,6 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 
 Install Visual Studio 2019 with `.NET desktop development`, `Desktop development with C++` and `Universal Windows Platform development` components checked during installation. You can download free Visual Studio Community [here](https://visualstudio.microsoft.com/vs/community/).
 
-Then open the solution file `src\ui\windows\TogglDesktop\TogglDesktop.sln` and run it in `Debug` mode.
-
-The solution is using OpenSSL binaries. To rebuild OpenSSL from sources refer to [this page](docs/win/build-openSSL.md).
-
-
 # Change log
 
-Change log can be viewed at [http://toggl.github.io/toggldesktop/](http://toggl.github.io/toggldesktop/)
+Change log can be viewed at [Version 1.3.0](https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/release-notes/app-1.3.0.md/)
