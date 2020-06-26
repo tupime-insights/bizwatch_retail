@@ -37,17 +37,6 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 
 # Download
 
-Toggl built and signed apps for all platforms
-
-## Mac
-
-<br>
-<a href="https://toggl.github.io/toggldesktop/download/macos-stable/">64bit dmg</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://itunes.apple.com/ee/app/toggl-desktop/id957734279?mt=12'>
-  Mac App Store</a>
-<br/>
-<br/>
-<i>Officially macOS 10.11 and newer stable macOS versions are supported.</i>
-
 ## Windows
 
 <br/>
@@ -56,74 +45,8 @@ Toggl built and signed apps for all platforms
 <br/>
 <i>App has been tested on Windows 7, 8, 8.1 and 10. Toggl Desktop Windows app has not been tested on Surface type touchscreen environments.</i>
 
-## Linux
 
-<br>
-<a href="https://toggl.github.io/toggldesktop/download/linux_tar.gz-stable/">Tarball</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://flathub.org/apps/details/com.toggl.TogglDesktop'>Flathub</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
-<i>Only 64bit is supported</i>
-
-# Build
-
-Please check OS specific requirements below.
-
-_By default the app builds for testing server. To use the compiled app with live server see this guide [https://github.com/toggl-open-source/toggldesktop/wiki/Building-Toggl-Desktop-from-source-for-usage-with-live-servers](https://github.com/toggl-open-source/toggldesktop/wiki/Building-Toggl-Desktop-from-source-for-usage-with-live-servers)_
-
-## macOS
-### Requirements
-- macOS 10.14+, Xcode 10.2+ and Swift 4+
-- Install Bundler
-```bash
-$ sudo gem install bundler
-```
-
-### Build
-```bash
-# Prepare cocoapod
-$ make init_cocoapod
-```
-- Open workspace at `src/ui/osx/TogglDesktop.xcworkspace`
-- Select TogglDesktop scheme and build.
-
-## Linux
-
-### Dependencies
-
-You'll need these Qt (at version 5.12 or higher) modules: QtWidgets (with private headers), QtWebEngine, QtWebEngineWidgets, QtNetwork, QtDBus, QtX11Extras
-
-If Qt is not installed from your distribution's package manager, you will need to set the `CMAKE_PREFIX_PATH` environment variable to point to the `lib/cmake` folder in the Qt version you wish to use.
-
-These dependencies are mandatory:
- * libXScrnSaver (`libxss-dev` in deb-based distros and `libXScrnSaver-devel` in rpm-based)
-
- You can install them all in debian with a command:
-```bash
- $ sudo apt install libxss-dev build-essential libgl-dev libreadline-dev
-
- ```
- 
-These dependencies are optional and will be bundled if the `USE_BUNDLED_LIBRARIES` CMake argument is set or your system does NOT have their development packages installed:
- * POCO
- * Lua
- * jsoncpp
- * Qxt
-
-These libraries will be bundled regardless of your system:
- * bugsnag-qt
- * qt-oauth-lib
-
-### Build the app
-
-*in the toggldesktop source tree root*
-```bash
-mkdir -p build && pushd build             # Create build directory
-cmake ..                                  # Setup cmake configs
-make -j8                                  # Build the app. The number defines the count of parallel jobs (number of your CPU cores is a good value for that)
-./src/ui/linux/TogglDesktop/TogglDesktop  # Run the built app
-```
-
-## Windows
+ ## Windows
 
 Install Visual Studio 2019 with `.NET desktop development`, `Desktop development with C++` and `Universal Windows Platform development` components checked during installation. You can download free Visual Studio Community [here](https://visualstudio.microsoft.com/vs/community/).
 
@@ -135,23 +58,3 @@ The solution is using OpenSSL binaries. To rebuild OpenSSL from sources refer to
 # Change log
 
 Change log can be viewed at [http://toggl.github.io/toggldesktop/](http://toggl.github.io/toggldesktop/)
-
-# Contribute
-
-Before sending us a pull request, please format the source code:
-
-```bash
-$ make fmt
-```
-
-Also, please check for any cpplint issues:
-
-```bash
-$ make lint
-```
-
-Check if unit tests continue to pass:
-
-```bash
-$ make test
-```
