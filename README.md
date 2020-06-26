@@ -1,7 +1,7 @@
 # bizwatch_retail
 Modern Point of Sale tool for your retail business whether it is a shop or restaurant
 <h1 align="center">
-  <a href="https://toggl.com"><img src="https://toggl.com/site/images/media-toolkit/logo_02-644bd26148b73c19d9c91e5baecd8e31.jpg" alt="Toggl" width="200"></a>
+  <a href="https://toggl.com"><img src="https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/assets/logo.png?raw=true" alt="Toggl" width="200"></a>
 </h1>
 
 <h4 align="center">Native desktop applications for the leading time tracking tool <a href="https://toggl.com" target="_blank">Toggl</a>.</h4>
