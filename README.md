@@ -30,10 +30,14 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 
 # About
 
-  **Bizwatch Retail** is powerful Point of Sale tool for your retail business whether you are running a pharmacy, supermarket or a restaurant Features such as Idle detection, reminders to track and Pomodoro Timer make this app a great companion when productivity and efficiency is the goal.
+  **Bizwatch Retail** is powerful Point of Sale tool for your retail business whether you are running a pharmacy, supermarket or a restaurant.
+  It supports standard POS hardware including receipt printers, cashdraws and barcode scanners.
+  With a rich administration dashboard and reporting features, bizwatch brings benefits to managers and staff alike.
+  Stop playing a losing game with Excel and paper books. and even those old
+   retail POS with horrible user interfaces
 
-<img src="https://user-images.githubusercontent.com/842229/63856838-3a869580-c9ab-11e9-9e36-7db23059ce29.png"
-         alt="Toggl Desktop apps">
+<img src="https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/assets/bizwatch%20report.JPG?raw=true"
+         alt="Bizwatch POS">
 
 # Download
 
@@ -43,7 +47,7 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 <a href="https://toggl.github.io/toggldesktop/download/windows64-stable/">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://toggl.github.io/toggldesktop/download/windows-stable/">32bit installer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://chocolatey.org/packages/toggl">Chocolatey</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href='//www.microsoft.com/store/apps/9nk3rf9nbjnp?cid=storebadge&ocid=badge'>Microsoft Store</a>
 <br/>
 <br/>
-<i>App has been tested on Windows 7, 8, 8.1 and 10. Toggl Desktop Windows app has not been tested on Surface type touchscreen environments.</i>
+<i>App has been tested on Windows 7, 8, 8.1 and 10.</i>
 
 
  ## Windows
