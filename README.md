@@ -1,24 +1,11 @@
 # bizwatch_retail
 Modern Point of Sale tool for your retail business whether it is a shop or restaurant
 <h1 align="center">
-  <a href="https://toggl.com"><img src="https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/assets/logo.png?raw=true" alt="Toggl" width="200"></a>
+  <a href="https://tupimelab.com/retail-pos/"><img src="https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/assets/logo.png?raw=true" alt="bizwatch retail" width="200"></a>
 </h1>
 
 <h4 align="center">Modern Point of Sale for your retail business <a href="https://tupimelab.com/retail-pos/" target="_blank">Bizwatch Retail</a>.</h4>
 
-<p align="center">
-    <a href="https://github.com/toggl-open-source/toggldesktop/commits/master">
-    <img src="https://img.shields.io/github/last-commit/toggl-open-source/toggldesktop.svg?style=flat&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/toggl/toggldesktop/issues">
-    <img src="https://img.shields.io/github/issues-raw/toggl-open-source/toggldesktop.svg?style=flat&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/toggl/toggldesktop/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/toggl-open-source/toggldesktop.svg?style=flat&logo=github&logoColor=white"
-         alt="GitHub pull requests">
-    <img src="https://img.shields.io/badge/licence-BSD--3-green"
-         alt="Licence BSD-3">
-</p>
 
 <p align="center">
   <a href="#about">About</a> •
@@ -44,7 +31,7 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 ## Windows
 
 <br/>
-<a href="https://toggl.github.io/toggldesktop/download/windows64-stable/">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://toggl.github.io/toggldesktop/download/windows-stable/">32bit installer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://chocolatey.org/packages/toggl">Chocolatey</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href='//www.microsoft.com/store/apps/9nk3rf9nbjnp?cid=storebadge&ocid=badge'>Microsoft Store</a>
+<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.3.0/bizwatch_retail_64bit.zip">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.3.0/bizwatch_retail_32bit.zip">32bit installer</a>
 <br/>
 <br/>
 <i>App has been tested on Windows 7, 8, 8.1 and 10.</i>
