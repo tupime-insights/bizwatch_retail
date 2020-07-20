@@ -17,11 +17,11 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 
 # About
 
-  **Bizwatch Retail** is powerful Point of Sale tool for your retail business whether you are running a pharmacy, supermarket or a restaurant.
+  **Bizwatch Retail** is simple but powerful Point of Sale tool for your retail business whether you are running a pharmacy, supermarket or a restaurant.
   It supports standard POS hardware including receipt printers, cashdraws and barcode scanners.
   With a rich administration dashboard and reporting features, bizwatch brings benefits to managers and staff alike.
   Stop playing a losing game with Excel and paper books. and even those old
-   retail POS with horrible user interfaces
+   retail POS with horrible user interfaces.. It is new dawn 2020
 
 <img src="https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/assets/bizwatch%20report.JPG?raw=true"
          alt="Bizwatch POS">
@@ -31,7 +31,7 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 ## Windows
 
 <br/>
-<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.3.0/bizwatch_retail_64bit.zip">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.3.0/bizwatch_retail_32bit.zip">32bit installer</a>
+<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.4.0/bizwatch_retail_64bit.zip">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.4.0/bizwatch_retail_32bit.zip">32bit installer</a>
 <br/>
 <br/>
 <i>App has been tested on Windows 7, 8, 8.1 and 10.</i>
