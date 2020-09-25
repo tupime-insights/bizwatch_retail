@@ -31,7 +31,7 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 ## Windows
 
 <br/>
-<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.4.0/bizwatch_retail_64bit.zip">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.4.0/bizwatch_retail_32bit.zip">32bit installer</a>
+<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.5.0/bizwatch_retail_64bit.exe">64bit installer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tupime-insights/bizwatch_retail/releases/download/1.5.0/bizwatch_retail_32bit.zip">32bit installer</a>
 <br/>
 <br/>
 <i>App has been tested on Windows 7, 8, 8.1 and 10.</i>
