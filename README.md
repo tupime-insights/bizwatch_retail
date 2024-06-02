@@ -41,6 +41,10 @@ Modern Point of Sale tool for your retail business whether it is a shop or resta
 
 Install Visual Studio 2019 with `.NET desktop development`, `Desktop development with C++` and `Universal Windows Platform development` components checked during installation. You can download free Visual Studio Community [here](https://visualstudio.microsoft.com/vs/community/).
 
+## User Manual
+
+The user manual can be viewed by clicking [here](https://github.com/tupime-insights/bizwatch_retail/blob/master/assets/BizwatchRetailUserManual.pdf)
+
 # Change log
 
 Change log can be viewed at [Version 1.3.0](https://github.com/tupime-insights/bizwatch_retail/blob/support-plan/release-notes/app-1.3.0.md/)
